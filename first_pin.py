@@ -2,6 +2,8 @@
 import socket
 import time
 
+
+
 #host and port of the server
 host = "127.0.0.1"
 port = 8888
